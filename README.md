@@ -4,6 +4,11 @@ Find every company that's actually sponsored H-1B visas, with real salary ranges
 
 ---
 
+![SponsorScope dashboard](sponsorscope-ui/SponsorSearch%20Open.png)
+
+![SponsorScope Search Engine](sponsorscope-ui/SponsorSearch%20Search.png)
+
+
 ## Project layout
 
 ```
